@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather App_Kt</string>
+    <string name="helloKotlin">hello kotlin</string>
+    <string name="item_forecast_data">May 14, 2015</string>
+    <string name="item_forecast_description">Light Rain</string>
+    <string name="item_forecast_maxTemperature">30</string>
+    <string name="item_forecast_minTemperature">15</string>
+</resources>
